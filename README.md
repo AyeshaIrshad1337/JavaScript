@@ -19,3 +19,11 @@ myVar = 5;
 </code>
 <p>
 First, this code creates a variable named myVar. Then, the code assigns 5 to myVar. Now, if myVar appears again in the code, the program will treat it as if it is 5.</p>
+<br>
+<h2>Assigning the Value of One Variable to Another</h2>
+<p>After a value is assigned to a variable using the assignment operator, you can assign the value of that variable to another variable using the assignment operator.</p>
+<code>var myVar;
+myVar = 5;
+var myNum;
+myNum = myVar;</code>
+<p>The above declares a myVar variable with no value, then assigns it the value 5. Next, a variable named myNum is declared with no value. Then, the contents of myVar (which is 5) is assigned to the variable myNum. Now, myNum also has the value of 5.</p>
