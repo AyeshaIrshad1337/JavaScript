@@ -33,3 +33,8 @@ myNum = myVar;</code>
 <code> var myVar = 0;</code>
 <p>
 Creates a new variable called myVar and assigns it an initial value of 0.</p>
+<br>
+<h2>Declare String Variables</h2>
+<p> you can also declare a string variable like this:</p>
+<code>var myName = "your name";</code>
+<p>"your name" is called a string literal. A string literal, or string, is a series of zero or more characters enclosed in single or double quotes.</p>
