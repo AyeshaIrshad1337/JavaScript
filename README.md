@@ -41,3 +41,13 @@ Creates a new variable called myVar and assigns it an initial value of 0.</p>
 <br>
 <h2>Understanding Uninitialized Variables</h2>
 <p>When JavaScript variables are declared, they have an initial value of undefined. If you do a mathematical operation on an undefined variable your result will be NaN which means "Not a Number". If you concatenate a string with an undefined variable, you will get a string of undefined.</p>
+<br>
+<h2>Understanding Case Sensitivity in Variables</h2>
+<p>In JavaScript all variables and function names are case sensitive. This means that capitalization matters. MYVAR is not the same as MyVar nor myvar. It is possible to have multiple distinct variables with the same name but different casing. It is strongly recommended that for the sake of clarity, you do not use this language feature.</p>
+<h3>Best Practice</h3>
+<p>Write variable names in JavaScript in camelCase. In camelCase, multi-word variable names have the first word in lowercase and the first letter of each subsequent word is capitalized.</p>
+
+<br>
+<code>var someVariable;
+var anotherVariableName;
+var thisVariableNameIsSoLong;</code>
