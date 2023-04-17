@@ -51,3 +51,20 @@ Creates a new variable called myVar and assigns it an initial value of 0.</p>
 <code>var someVariable;
 var anotherVariableName;
 var thisVariableNameIsSoLong;</code>
+<br>
+<h2>Explore Differences Between the var and let Keywords</h2>
+<p>One of the biggest problems with declaring variables with the var keyword is that you can easily overwrite variable declarations:</p>
+<code>var camper = "James";
+var camper = "David";
+console.log(camper);</code>
+<br>
+<p>In the code above, the camper variable is originally declared as James, and is then overridden to be David. The console then displays the string David.</p>
+<p>In a small application, you might not run into this type of problem. But as your codebase becomes larger, you might accidentally overwrite a variable that you did not intend to. Because this behavior does not throw an error, searching for and fixing bugs becomes more difficult.</p>
+<p>A keyword called let was introduced in ES6, a major update to JavaScript, to solve this potential issue with the var keyword..if you replace var with let in the code above, it results in an error:</p>
+<code>let camper = "James";
+let camper = "David";
+</code>
+<br>
+<p>The error can be seen in your browser console.
+
+So unlike var, when you use let, a variable with the same name can only be declared once.</p>
