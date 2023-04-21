@@ -124,13 +124,13 @@ JavaScript uses the / symbol for division.</p>
 <code>i = i + 1;</code>
 <br>
 
-<h2>Increment a Number with JavaScript</h2>
+<h2>Decrement a Number with JavaScript</h2>
 <br>
 
-<p>You can easily increment or add one to a variable with the ++ operator.</p>
+<p>You can easily decrement or decrease a variable by one with the -- operator.</p>
 <br>
-<code></code>
+<code>i--;</code>
 <p>is equivalent to </p>
 <br>
-<code></code>
+<code>i = i - 1;</code>
 <br>
