@@ -82,3 +82,11 @@ FAV_PET = "Dogs";</code>
 You should always name variables you don't want to reassign using the const keyword. This helps when you accidentally attempt to reassign a variable that is meant to stay constant.
 <br>
 <b>Note:</b> It is common for developers to use uppercase variable identifiers for immutable values and lowercase or camelCase for mutable values (objects and arrays). You will learn more about objects, arrays, and immutable and mutable values in later challenges. Also in later challenges, you will see examples of uppercase, lowercase, or camelCase variable identifiers.</p>
+<br>
+<h2>Add Two Numbers with JavaScript</h2>
+<p>Number is a data type in JavaScript which represents numeric data.
+<br>
+Now let's try to add two numbers using JavaScript.
+<br>
+JavaScript uses the + symbol as an addition operator when placed between two numbers.</p>
+<code>const myVar = 5 + 10;</code>
