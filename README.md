@@ -90,3 +90,25 @@ Now let's try to add two numbers using JavaScript.
 <br>
 JavaScript uses the + symbol as an addition operator when placed between two numbers.</p>
 <code>const myVar = 5 + 10;</code>
+<br>
+<h2>Subtract One Number from Another with JavaScript</h2>
+<br>
+<p>We can also subtract one number from another.
+<br>
+JavaScript uses the - symbol for subtraction.</p>
+<code>const myVar = 12 - 6;</code>
+<br>
+<h2>Multiply Two Numbers with JavaScript
+</h2>
+<br>
+<p>We can also multiply one number by another.
+<br>
+JavaScript uses the * symbol for multiplication of two numbers.</p>
+<code>const myVar = 13 * 13;</code>
+<br>
+<h2>Divide One Number by Another with JavaScript</h2>
+<br>
+<p>We can also divide one number by another.
+<br>
+JavaScript uses the / symbol for division.</p>
+<code>const myVar = 16 / 2;</code>
