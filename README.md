@@ -112,3 +112,25 @@ JavaScript uses the * symbol for multiplication of two numbers.</p>
 <br>
 JavaScript uses the / symbol for division.</p>
 <code>const myVar = 16 / 2;</code>
+<br>
+<h2>Increment a Number with JavaScript</h2>
+<br>
+
+<p>You can easily increment or add one to a variable with the ++ operator.</p>
+<br>
+<code>i++;</code>
+<p>is equivalent to </p>
+<br>
+<code>i = i + 1;</code>
+<br>
+
+<h2>Increment a Number with JavaScript</h2>
+<br>
+
+<p>You can easily increment or add one to a variable with the ++ operator.</p>
+<br>
+<code></code>
+<p>is equivalent to </p>
+<br>
+<code></code>
+<br>
