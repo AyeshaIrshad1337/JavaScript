@@ -192,15 +192,14 @@ console.log(myVar);</code>
 <p>Convert the assignments for a, b, and c to use the -= operator.</p>
 <br>
 
-<h2></h2>
+<h2>Compound Assignment With Augmented Multiplication</h2>
 <br>
-<p></p>
+<p>The *= operator multiplies a variable by a number.</p>
 <br>
-<code></code>
-<p></p>
+<code>myVar = myVar * 5;</code>
+<p>will multiply myVar by 5. This can be rewritten a</p>
 <br>
-<code></code>
-<p></p>
+<code>myVar *= 5;</code>
 <br>
 
 
