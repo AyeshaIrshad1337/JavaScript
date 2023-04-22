@@ -203,13 +203,13 @@ console.log(myVar);</code>
 <br>
 
 
-<h2></h2>
+<h2>Compound Assignment With Augmented Division</h2>
 <br>
-<p></p>
+<p>The /= operator divides a variable by another number.</p>
 <br>
-<code></code>
-<p></p>
+<code>myVar = myVar / 5;</code>
+<p>Will divide myVar by 5. This can be rewritten as:</p>
 <br>
-<code></code>
-<p></p>
+<code>myVar /= 5;</code>
+
 <br>
