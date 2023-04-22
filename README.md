@@ -181,6 +181,29 @@ console.log(myVar);</code>
 <br>
 
 
+<h2>Compound Assignment With Augmented Subtraction</h2>
+<br>
+<p>Like the += operator, -= subtracts a number from a variable.</p>
+<br>
+<code>myVar = myVar - 5;</code>
+<p>will subtract 5 from myVar. This can be rewritten as:</p>
+<br>
+<code>myVar -= 5;</code>
+<p>Convert the assignments for a, b, and c to use the -= operator.</p>
+<br>
+
+<h2></h2>
+<br>
+<p></p>
+<br>
+<code></code>
+<p></p>
+<br>
+<code></code>
+<p></p>
+<br>
+
+
 <h2></h2>
 <br>
 <p></p>
