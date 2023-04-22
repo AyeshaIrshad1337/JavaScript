@@ -163,12 +163,31 @@ Example:
  The remainder operator is sometimes incorrectly referred to as the modulus operator. It is very similar to modulus, but does not work properly with negative numbers.</p>
 <br>
 
+<h2>Compound Assignment With Augmented Addition</h2>
+<br>
+<p>In programming, it is common to use assignments to modify the contents of a variable. Remember that everything to the right of the equals sign is evaluated first, so we can say:</p>
+<br>
+<code>myVar = myVar + 5;</code>
+<p>to add 5 to myVar. Since this is such a common pattern, there are operators which do both a mathematical operation and assignment in one step.  
+  
+One such operator is the += operator.
+
+</p>
+<br>
+<code>let myVar = 1;
+myVar += 5;
+console.log(myVar);</code>
+<p>6 would be displayed in the console.</p>
+<br>
+
+
 <h2></h2>
 <br>
 <p></p>
 <br>
-
-<h2></h2>
+<code></code>
+<p></p>
 <br>
+<code></code>
 <p></p>
 <br>
