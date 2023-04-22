@@ -134,3 +134,5 @@ JavaScript uses the / symbol for division.</p>
 <br>
 <code>i = i - 1;</code>
 <br>
+<h2>Create Decimal Numbers with JavaScript</h2>
+<p>We can store decimal numbers in variables too. Decimal numbers are sometimes referred to as floating point numbers or floa</p>
