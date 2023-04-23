@@ -283,3 +283,20 @@ In the goodStr above, you can use both quotes safely by using the backslash \ as
 </table>
 <p><b>
 Note that the backslash itself must be escaped in order to display as a backslash</b></p>
+<br>
+<hr>
+<h2>Concatenating Strings with Plus Operator</h2>
+<p>In JavaScript, when the + operator is used with a String value, it is called the concatenation operator. You can build a new string out of other strings by concatenating them together.</p>
+<code>'My name is Alan,' + ' I concatenate.'</code>
+<p><b>Note: </b>Watch out for spaces. Concatenation does not add spaces between concatenated strings, so you'll need to add them yourself.</p>
+<code>const ourStr = "I come first. " + "I come second.";</code>
+<p>The string I come first. I come second. would be displayed in the console.</p>
+<br>
+<h2>Concatenating Strings with the Plus Equals Operator</h2>
+<p>We can also use the += operator to concatenate a string onto the end of an existing string variable. This can be very helpful to break a long string over several lines.  
+  
+  <b>Note: </b>Watch out for spaces. Concatenation does not add spaces between concatenated strings, so you'll need to add them yourself.</p>
+
+<code>let ourStr = "I come first. ";
+ourStr += "I come second.";</code>
+<p>ourStr now has a value of the string I come first. I come second..</p>
