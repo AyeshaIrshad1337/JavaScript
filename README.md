@@ -281,3 +281,5 @@ In the goodStr above, you can use both quotes safely by using the backslash \ as
   <td>form feed</td>
  </tr>
 </table>
+<p><b>
+Note that the backslash itself must be escaped in order to display as a backslash</b></p>
